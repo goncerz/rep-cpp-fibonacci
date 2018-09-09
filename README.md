@@ -2,11 +2,11 @@
 
 Słowa Fibonacciego to ciąg słów opisany wzorem rekurencyjnym:
 
-F(1) = b,
+F(1) = b
 
-F(2) = a,
+F(2) = a
 
-F(n) = F(n-1).F(n-2) dla n>2,
+F(n) = F(n-1).F(n-2) dla n>2
 
 gdzie . oznacza konkatenację łańcuchów.
 
